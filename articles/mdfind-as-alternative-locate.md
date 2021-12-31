@@ -1,6 +1,6 @@
 ---
 title: "Mac で locate の代替として mdfind を使うことにした話"
-emoji: "💭"
+emoji: "🔎"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [mac, cli, spotlight, gnu, homebrew]
 published: true
