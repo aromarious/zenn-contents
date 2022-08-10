@@ -3,7 +3,8 @@ title: "AtCoderでプログラミングを教える記録 1回目 背景と環�
 emoji: "🐣"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["AtCoder", "Python", "プログラミング教育"]
-published: false
+published: true
+published_at: 2022-08-11 05:46
 ---
 # この記事の内容
 
