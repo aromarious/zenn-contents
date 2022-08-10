@@ -82,7 +82,7 @@ https://qiita.com/Adaachill/items/3d4ddad56c5c2cc372cd
 この設定をすると、たとえば abc 086 コンテストのA問題を取得した時にこうなる。
 - フォルダ名…コンテストID
 - 解答ファイル名…コンテストID+タスクID
-![](/images/contest-task.png)
+![](/images/enjoy-atcoder-01/contest-task.png)
 :::
 
 ## 3. `Visual Studio Code`
@@ -101,7 +101,7 @@ https://marketplace.visualstudio.com/items?itemName=edonet.vscode-command-runner
 },
 ```
 この設定をすると、上記コマンドをタイプしなくても、一覧から選んで実行できるようになる。
-![](/images/command-runner-config.png)
+![](/images/enjoy-atcoder-01/command-runner-config.png)
 
 ### デバッグ実行の構成
 ```json:launch.json デバッグ実行の設定。AtCoderから取得したテスト入力3種類
@@ -142,6 +142,6 @@ https://marketplace.visualstudio.com/items?itemName=edonet.vscode-command-runner
 }
 ```
 この設定をすると、入力ファイルを選んでデバッグ実行できる。
-![](/images/debugconfig.png)
+![](/images/enjoy-atcoder-01/debugconfig.png)
 :::
 
