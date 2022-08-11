@@ -8,7 +8,7 @@ published_at: 2022-08-11 05:46
 ---
 # この記事の内容
 
-ソフトウェアエンジニアが中学生の子にプログラミングを教えていく様子を記録する。この記事は1回目。これまでやってきたことと、今回AtCoderにチャレンジするための環境について概要を記す。
+ソフトウェアエンジニアが中学生の子にプログラミングを教えていく様子を記録する。この記事は**1回目**。これまでやってきたことと、今回AtCoderにチャレンジするための環境について概要を記す。
 
 # 3行で
 1. 10歳頃にScratchとSwiftPlayground、HumanResourceMachineでプログラミングに触れる
@@ -154,3 +154,7 @@ https://marketplace.visualstudio.com/items?itemName=edonet.vscode-command-runner
 :::
 
 ここまで支度してから、本人の余裕のあるタイミングで「今日やってみる？」とお伺いを立てるのだった。
+
+[**【次の記事】**](https://zenn.dev/aromarious/articles/enjoy-atcoder-02)
+2回目はいよいよ子本人へのレクチャーを開始。とはいえコードは1行も書かない回。
+@[card](https://zenn.dev/aromarious/articles/enjoy-atcoder-02)
