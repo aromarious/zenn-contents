@@ -152,4 +152,4 @@ https://marketplace.visualstudio.com/items?itemName=edonet.vscode-command-runner
 ![](/images/enjoy-atcoder-01/debugconfig.png)
 :::
 
-ここまで支度してから、本人の余裕のあるタイミングで「今日やってみる？」とお伺いを立てるのだった。
+ここまで支度してから、本人の余裕のあるタイミングで「今日やってみる？」とお伺いを立てるのだった。年がいってから授かった子だから、本当に
