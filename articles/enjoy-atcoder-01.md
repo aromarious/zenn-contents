@@ -154,3 +154,7 @@ https://marketplace.visualstudio.com/items?itemName=edonet.vscode-command-runner
 :::
 
 ここまで支度してから、本人の余裕のあるタイミングで「今日やってみる？」とお伺いを立てるのだった。
+
+[**【次の記事】**](https://zenn.dev/aromarious/articles/enjoy-atcoder-02)
+2回目はいよいよ子本人へのレクチャーを開始。とはいえコードは1行も書かない回。
+@[card](https://zenn.dev/aromarious/articles/enjoy-atcoder-02)

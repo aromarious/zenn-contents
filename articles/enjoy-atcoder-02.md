@@ -6,9 +6,11 @@ topics: ["AtCoder", "Python", "プログラミング教育"]
 published: true
 ---
 # この記事の内容
+ソフトウェアエンジニアが中学生の子にプログラミングを教えていく様子を記録する。この記事は2回目。コードを書く前にAtCoderとは何だという説明をした。
 
-ソフトウェアエンジニアが中学生の子にプログラミングを教えていく様子を記録する。
-この記事は2回目。コードを書く前にAtCoderの説明をした話。
+[**【前回の記事】**](https://zenn.dev/aromarious/articles/enjoy-atcoder-01)
+1回目は子の特性からのAtCoder選定への流れと、事前の環境設定の回。
+@[card](https://zenn.dev/aromarious/articles/enjoy-atcoder-01)
 
 # 3行で
 1. AtCoderでは毎週、コンテストが実施される。土曜21時。キミは初心者向けのコンテストに参加すればいい。
@@ -23,8 +25,8 @@ AtCoderのサイトを見せながら説明をした。理解のため、端的�
 
 https://chokudai.hatenablog.com/entry/2019/02/11/155904
 
-1. 参加者の大半は情報系の大学生か、プロのソフトウェアエンジニアである。趣味のプログラマの人もいるし、中高生もいなくはないが、多くはない（と思う）。
-2. コンテストはレベルによって初心者向け、中級者向け、上級者向けがある。
+2. 参加者の大半は情報系の大学生か、プロのソフトウェアエンジニアである。趣味のプログラマの人もいるし、中高生もいなくはないが、多くはない（と思う）。
+3. コンテストはレベルによって初心者向け、中級者向け、上級者向けがある。
    1. 初心者向け ABC…AtCoder Beginners Contest
    2. 中級者向け ARC…AtCoder Regular Contest
    3. 上級者向け AGC…AtCoder Grand Contest
@@ -39,3 +41,9 @@ https://chokudai.hatenablog.com/entry/2019/02/11/155904
 AtCoder のサイトから過去のコンテストをひとつ選び、それのA問題を`VSCode`を使って取得、そこからコーディング・デバッグ・テスト・提出までの流れをデモっぽくやってみせた。
 
 初回レクチャーはこれで終わり。まだ1行もコードを書いていないが、遅すぎると思うくらいのスピードでいいのだ。少しずつだ。
+
+**【次の記事】**
+初めてAtCoderの課題の解答のコードを書いてみる中学生。（予定）
+
+<!-- [【次の記事】](https://zenn.dev/aromarious/articles/enjoy-atcoder-03) -->
+<!-- @[card](https://zenn.dev/aromarious/articles/enjoy-atcoder-03) -->
