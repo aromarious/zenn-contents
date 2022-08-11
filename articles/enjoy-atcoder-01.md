@@ -102,6 +102,7 @@ https://marketplace.visualstudio.com/items?itemName=edonet.vscode-command-runner
 ### Command Runner 設定
 ```json:Command Runner 設定
 "command-runner.commands": {
+  "acc new": "cd ${workspaceFolder} && acc new ${input} && code -m $(\\ls -1t */*/solve*.py | head -1)",
   "oj test": "cd ${fileDirname} && oj test -c ./${fileBasename} -d ./tests",
   "acc submit": "cd ${fileDirname} && acc submit ./${fileBasename}",
   "acc task": "cd ${fileDirname} && acc task"
