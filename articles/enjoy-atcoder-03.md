@@ -6,7 +6,7 @@ topics: ["AtCoder", "Python", "プログラミング教育"]
 published: true
 ---
 # この記事の内容
-ソフトウェアエンジニアが中学生の子にプログラミングを教えていく様子を記録する。この記事は**3回目**。いよいよ子本人が自分のマシンを操作し、解答をひとつ提出する。
+ソフトウェアエンジニアが中学生の子にプログラミングを教えていく様子を記録する。この記事は**3回目**。いよいよ子本人が自分のマシンを操作し、解答をひとつ提出する。前半。
 
 [**【前回の記事】**](https://zenn.dev/aromarious/articles/enjoy-atcoder-02)
 2回目はAtCoderの説明と、環境した環境で過去問を1問解いて提出するデモをやった回。
@@ -106,5 +106,5 @@ print(a)
 私「順調順調、やるねェ！」
 
 [**【次の記事】**](https://zenn.dev/aromarious/articles/enjoy-atcoder-04)
-後半はいよいよ問題に沿ったコーディングに進む。（予定）
-<!-- @[card](https://zenn.dev/aromarious/articles/enjoy-atcoder-04) -->
+後半はいよいよ問題に沿ったコーディングに進み、提出する。
+@[card](https://zenn.dev/aromarious/articles/enjoy-atcoder-04)
