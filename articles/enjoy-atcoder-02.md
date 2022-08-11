@@ -4,7 +4,6 @@ emoji: "🐣"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["AtCoder", "Python", "プログラミング教育"]
 published: true
-published_at: 
 ---
 # この記事の内容
 
