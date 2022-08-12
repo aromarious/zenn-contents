@@ -4,7 +4,6 @@ emoji: "🐣"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["AtCoder", "Python", "プログラミング教育"]
 published: true
-published_at: 2022-08-11 05:46
 ---
 # この記事の内容
 
@@ -12,7 +11,7 @@ published_at: 2022-08-11 05:46
 
 # 3行で
 1. 10歳頃にScratchとSwiftPlayground、HumanResourceMachineでプログラミングに触れる
-2. 現在13歳、公立中。自由に作るより、問題を解くほうが好きとのこと。AtCoderをやってみては、ということに。
+2. 現在、公立中に通う13歳。自由に作るより、問題を解くほうが好きとのこと。AtCoderをやってみては、ということに。
 3. MacBookAirにVSCode等の環境を構築した。
 
 # 子が小学生時代に学んだこと
