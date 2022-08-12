@@ -3,6 +3,6 @@
   "command-runner.terminal.autoClear": true,
   "command-runner.terminal.autoFocus": true,
   "command-runner.commands": {
-    "zenn preview": "npx zenn preview"
+    "zenn preview": "npx zenn preview & sleep 1 && open http://localhost:8000/"
   }
 }
