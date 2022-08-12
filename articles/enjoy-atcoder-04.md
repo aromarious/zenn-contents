@@ -1,5 +1,5 @@
 ---
-title: "中学生にAtCoderでプログラミングを教える記録 4回目 〜 初めての提出（後半） ABC086-A  Product"
+title: "中学生にAtCoderでプログラミングを教える記録 4回目 〜 初めての提出（後半） ABC086A - Product"
 emoji: "🐣"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["AtCoder", "Python", "プログラミング教育"]
