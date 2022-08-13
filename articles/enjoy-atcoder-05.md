@@ -86,7 +86,7 @@ l = list(a)
 print(l)
 x, y, z = map(int, l)
 print(x, y, z)
-pirnt(x+y+z)
+print(x+y+z)
 ```
 ```:結果
 010
@@ -110,7 +110,7 @@ pirnt(x+y+z)
 a = input()
 l = list(a)
 x, y, z = map(int, l)
-pirnt(x+y+z)
+print(x+y+z)
 ```
 ```:結果
 1
@@ -123,7 +123,7 @@ pirnt(x+y+z)
 ```python:solve_abc081_a.py
 a = input()
 x, y, z = map(int, list(a))
-pirnt(x+y+z)
+print(x+y+z)
 ```
 子「おお、なるほど。変数も減るし分かりやすい」
 私「え、ほんまに動くかわからんで？ 信じてええの？」
@@ -145,7 +145,7 @@ pirnt(x+y+z)
 私「いいよ。やってみ」
 ```python:solve_abc081_a.py
 x, y, z = map(int, list(input()))
-pirnt(x+y+z)
+print(x+y+z)
 ```
 子「みじかなった」
 ```:結果
