@@ -1,8 +1,8 @@
 {
   "command-runner.terminal.name": "runCommand",
   "command-runner.terminal.autoClear": true,
-  "command-runner.terminal.autoFocus": true,
+  "command-runner.terminal.autoFocus": false,
   "command-runner.commands": {
-    "zenn preview": "npx zenn preview & sleep 1 && open http://localhost:8000/"
+    "preview this article": "nc -z localhost 8000 &> /dev/null || npx zenn preview & ; sleep 1; open http://localhost:8000/$(echo ${fileDirname} | awk -F/ '{print $NF}')/${fileBasenameNoExtension} "
   }
 }
