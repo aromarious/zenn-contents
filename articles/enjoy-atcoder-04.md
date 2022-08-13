@@ -1,5 +1,5 @@
 ---
-title: "中学生にAtCoderでプログラミングを教える記録 4回目 〜 初めての提出（後半）"
+title: "中学生にAtCoderでプログラミングを教える記録 4回目 〜 初めての提出（後半） ABC086A - Product"
 emoji: "🐣"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["AtCoder", "Python", "プログラミング教育"]
@@ -205,8 +205,11 @@ else:
 子「する！！」
 私「これ押して`acc submit`選んで」
 子「おお…`AC`になった！」
+
+![](/images/enjoy-atcoder-04/result_abc086a.png)
+
 私「おめでとう！ 初めての提出、大成功じゃん！」
 子「ヤッター！」
 
-<!-- [**【次の記事】**](https://zenn.dev/aromarious/articles/enjoy-atcoder-05) -->
-<!-- @[card](https://zenn.dev/aromarious/articles/enjoy-atcoder-05) -->
+[**【次の記事】**](https://zenn.dev/aromarious/articles/enjoy-atcoder-05) 次のA問題、[ABC081A - Placing Marbles](https://atcoder.jp/contests/abs/tasks/abc081_a) を解く。
+@[card](https://zenn.dev/aromarious/articles/enjoy-atcoder-05)
