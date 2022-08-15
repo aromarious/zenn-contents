@@ -50,7 +50,7 @@ AtCoderやGitHubのアカウントの登録、操作に必要な基本コマン�
 ## 1. Python3.8 と仮想環境
 `Python`か`JavaScript`かどちらがいいか選ばせたところ、「`Python`にしようかな」とのことで、インストールする。
 - `python`のバージョン管理として`pyenv`をインストール
-- `pyenv`を使って`3.8.13`をインストール<br>AtCoderでは`Python3`として`3.8.2`がし使用されているため、`3.8`系の最新を使うことにした。その他`3.10.5`もインストール。
+- `pyenv`を使って`3.8.13`をインストール<br>AtCoderでは`Python3`として`3.8.2`が使用されているため、`3.8`系の最新を使うことにした。その他`3.10.5`もインストール。
 - AtCoder用のフォルダを作り、そこで仮想環境を作っておく<br>`mkdir AtCoder; cd AtCoder; python -m venv .venv`
 
 ## 2. `online-judge-tools` と `atcoder-cli`
