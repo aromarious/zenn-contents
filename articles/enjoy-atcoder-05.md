@@ -175,6 +175,5 @@ print(x+y+z)
 - 初めてリファクタリングをした
 - コードには読みやすいものとそうでないものがあると知った
 
-**【次の記事】** 次は ABC081B - Shift Only に進むとあるが、ちょい難しめを感じたので、今までやった問題の別解を作ったりしてみたい。（予定）
-<!-- [**【次の記事】**](https://zenn.dev/aromarious/articles/enjoy-atcoder-06) -->
-<!-- @[card](https://zenn.dev/aromarious/articles/enjoy-atcoder-06) -->
+[**【次の記事】**](https://zenn.dev/aromarious/articles/enjoy-atcoder-06) 次は ABC081B - Shift Only に進むとあるが、ちょい難しめを感じたので、準備として配列（リスト）や`for`文を使って今までの問題の別解を作ってみる。
+@[card](https://zenn.dev/aromarious/articles/enjoy-atcoder-06)
