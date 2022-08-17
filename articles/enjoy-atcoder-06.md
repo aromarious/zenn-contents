@@ -10,7 +10,7 @@ published: true
 
 [**【前回の記事】**](https://zenn.dev/aromarious/articles/enjoy-atcoder-05)
 @[card](https://zenn.dev/aromarious/articles/enjoy-atcoder-05)
-[過去問(ABC081A - Placing Marbles](https://atcoder.jp/contests/abc081/tasks/abc081_a)を解いた回。`list`, `map`などを使う解き方。
+[過去問(ABC081A - Placing Marbles)](https://atcoder.jp/contests/abc081/tasks/abc081_a) を解いた回。`list`, `map`などを使う解き方。
 
 # 今回の達成目標
 - `Python`の配列（`list`）を理解する
@@ -136,5 +136,5 @@ for value in list:
 私「飲み込みが早い！ じゃあ昨日の問題を`for`文使って書き直してみようか」
 子「やってみる」
 
-[**【次の記事】**](https://zenn.dev/aromarious/articles/enjoy-atcoder-07) 今習った`for`文を使って、前回解いた過去問 [(ABC081A - Placing Marbles](https://atcoder.jp/contests/abc081/tasks/abc081_a)をもう一度解く。
+[**【次の記事】**](https://zenn.dev/aromarious/articles/enjoy-atcoder-07) 今習った`for`文を使って、前回解いた過去問  [ABC081A - Placing Marbles](https://atcoder.jp/contests/abc081/tasks/abc081_a) をもう一度解く。
 @[card](https://zenn.dev/aromarious/articles/enjoy-atcoder-07)
