@@ -8,7 +8,7 @@ published: true
 # この記事の内容
 ソフトウェアエンジニアが中学生の子にプログラミングを教えていく様子を記録する。この記事は**5回目**。前回は自分の手でコードを書いて、初めての提出までの流れをこなした。今回は別の問題で同じように提出までやってみる。
 
-[**【前回の記事】**](https://zenn.dev/aromarious/articles/enjoy-atcoder-04) [過去問(ABC086A - Product)](https://atcoder.jp/contests/abc086/tasks/abc086_a)を1題解き、初めて提出した回。
+[**【前回の記事】**](https://zenn.dev/aromarious/articles/enjoy-atcoder-04) [過去問 (ABC086A - Product)](https://atcoder.jp/contests/abc086/tasks/abc086_a) を1題解き、初めて提出した回。
 @[card](https://zenn.dev/aromarious/articles/enjoy-atcoder-04)
 
 # 今回の達成目標
