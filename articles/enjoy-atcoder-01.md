@@ -2,7 +2,7 @@
 title: "中学生にAtCoderでプログラミングを教える記録 1回目 〜 背景と環境概要"
 emoji: "🐣"
 type: "idea" # tech: 技術記事 / idea: アイデア
-topics: ["AtCoder", "Python", "プログラミング教育"]
+topics: ["AtCoder", "Python", "プログラミング教育", "中学生プログラミング教育"]
 published: true
 ---
 # この記事の内容

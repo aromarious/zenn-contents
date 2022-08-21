@@ -2,7 +2,7 @@
 title: "中学生にAtCoderでプログラミングを教える記録 3回目 〜 初めての提出（前半） ABC086A - Product"
 emoji: "🐣"
 type: "idea" # tech: 技術記事 / idea: アイデア
-topics: ["AtCoder", "Python", "プログラミング教育"]
+topics: ["AtCoder", "Python", "プログラミング教育", "中学生プログラミング教育"]
 published: true
 ---
 # この記事の内容
